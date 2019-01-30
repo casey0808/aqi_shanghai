@@ -1,10 +1,12 @@
 ## Hourly PM2.5 of Shanghai
 
-A bokeh plot of hourly PM2.5 value of Shanghai.
+A bokeh plot for hourly PM2.5 values of Shanghai.
+
+**Interactive version can be seen [`here`](https://casey0808.github.io/shanghai_pm25/pm25_sh.html)**
 
 ![png](plot.png)
 
-Interactive version can be seen [`here`](https://casey0808.github.io/shanghai_pm25/pm25_sh.html)
+
 
 data source : [U.S. Department of State Air Quality Monitoring Program](http://www.stateair.net/web/historical/1/4.html)
 
