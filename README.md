@@ -2,7 +2,7 @@
 
 A bokeh plot for hourly PM2.5 values of Shanghai.
 
-### Interactive version can be seen [`here`](https://casey0808.github.io/pm25_shanghai/pm25_sh.html)
+### For the interactive version, please click [`here`](https://casey0808.github.io/pm25_shanghai/pm25_sh.html)
 &nbsp;
 
 ![png](plot.png)
