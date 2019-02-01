@@ -1,16 +1,14 @@
-### Time series data visualization using Bokeh
+## Time series data visualization using Bokeh
 
-* Hourly PM2.5 of Shanghai
-
-:small_blue_diamond: **Click [`here`](https://casey0808.github.io/aqi_shanghai/pm25_sh.html) for the interactive version**
+#### 1. Hourly PM2.5 of Shanghai
+:small_blue_diamond: **click [`here`](https://casey0808.github.io/aqi_shanghai/pm25_sh.html) for the interactive version**
 &nbsp;
 
 ![png](plot.png)
 
 
-* Daily AQI of Shanghai
-
-:small_blue_diamond: **Click [`here`](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version**
+#### 2. Daily AQI of Shanghai
+:small_blue_diamond: **click [`here`](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version**
 &nbsp;
 
 ![png](plot2.png)
