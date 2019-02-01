@@ -10,7 +10,7 @@ A bokeh plot for hourly PM2.5 values of Shanghai.
 
 ### Daily AQI of Shanghai
 
-#### click [here](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version
+#### click [`here`](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version
 &nbsp;
 
 ![png](plot2.png)
