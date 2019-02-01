@@ -1,16 +1,16 @@
-### Hourly PM2.5 of Shanghai
+### Time series data visualization using Bokeh
 
-A bokeh plot for hourly PM2.5 values of Shanghai.
+* Hourly PM2.5 of Shanghai
 
-#### For the interactive version, please click [`here`](https://casey0808.github.io/aqi_shanghai/pm25_sh.html)
+:small_blue_diamond: **Click [`here`](https://casey0808.github.io/aqi_shanghai/pm25_sh.html) for the interactive version**
 &nbsp;
 
 ![png](plot.png)
 
 
-### Daily AQI of Shanghai
+* Daily AQI of Shanghai
 
-#### click [`here`](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version
+:small_blue_diamond: **Click [`here`](https://casey0808.github.io/aqi_shanghai/aqi_sh.html) for the interactive version**
 &nbsp;
 
 ![png](plot2.png)
